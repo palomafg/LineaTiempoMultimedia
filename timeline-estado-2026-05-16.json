@@ -1,0 +1,26 @@
+{
+  "version": 3,
+  "exported": "2026-05-16",
+  "editData": {},
+  "userEntries": [],
+  "deletedIds": [],
+  "cardScales": {},
+  "nodeConns": [],
+  "customMarkers": [],
+  "catOrder": [
+    "IMAGEN",
+    "CINE",
+    "VIDEO",
+    "AUDIO",
+    "DIGITAL"
+  ],
+  "belowAxisArr": [
+    "DIGITAL"
+  ],
+  "customCatDefs": [],
+  "customCatNames": {},
+  "hiddenCats": [],
+  "projectTitle": "Evolución de los Medios Audiovisuales",
+  "projectSubtitle": "Digitalización y Archivo · 1820 – 2025",
+  "headerBg": ""
+}
